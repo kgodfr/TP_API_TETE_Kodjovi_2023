@@ -5,6 +5,11 @@ import lombok.Data;
 
 import java.time.LocalDate;
 
+/**
+ * @author TETE Kodjovi
+ *
+ */
+
 @Data
 @Table(name = "operations")
 @Entity
