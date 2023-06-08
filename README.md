@@ -1,4 +1,3 @@
-# TP_API_TETE_Kodjovi_2023
 Projet sur API REST pour Master en Cybersécurité à UCAO
 
 La société bancaire « Ega » voudrait mettre en place un système de gestion de ses clients et des comptes que ces derniers possèdent. Un client peut avoir plusieurs comptes. 
