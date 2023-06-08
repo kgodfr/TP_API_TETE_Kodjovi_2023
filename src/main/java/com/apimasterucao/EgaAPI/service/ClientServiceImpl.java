@@ -7,6 +7,11 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/**
+ * @author TETE Kodjovi
+ *
+ */
+
 @Service
 public class ClientServiceImpl implements ClientService {
     @Autowired
