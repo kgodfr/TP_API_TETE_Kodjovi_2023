@@ -5,6 +5,11 @@ import com.apimasterucao.EgaAPI.entity.Operation;
 
 import java.util.List;
 
+/**
+ * @author TETE Kodjovi
+ *
+ */
+
 public interface CompteService {
     public List<Compte> showCompte();
     public Compte saveCompte(Compte compte);
