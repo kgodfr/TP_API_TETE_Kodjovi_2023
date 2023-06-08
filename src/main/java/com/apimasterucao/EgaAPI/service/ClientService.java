@@ -4,6 +4,11 @@ import com.apimasterucao.EgaAPI.entity.Client;
 
 import java.util.List;
 
+/**
+ * @author TETE Kodjovi
+ *
+ */
+
 public interface ClientService {
     public List<Client> showClient();
     public Client saveClient(Client client);
