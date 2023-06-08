@@ -7,6 +7,11 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+ * @author TETE Kodjovi
+ *
+ */
+
 @Repository
 public interface CompteRepository extends JpaRepository<Compte, Integer> {
     List<Compte> findByClientId(Integer client_id);
